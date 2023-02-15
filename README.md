@@ -8,3 +8,5 @@ For other informations read my [article](https://medium.com/@sissuan/underwater-
 Inspired from this [paper](https://ieeexplore.ieee.org/document/9751218)
 
 This is the [dataset](https://li-chongyi.github.io/proj_benchmark.html) used
+
+Authors: Luca Bracchi and Silvia Zandoli
