@@ -10,3 +10,9 @@ Inspired from this [paper](https://ieeexplore.ieee.org/document/9751218)
 This is the [dataset](https://li-chongyi.github.io/proj_benchmark.html) used
 
 Authors: Luca Bracchi and Silvia Zandoli
+
+
+DOPO ESAME TODO: Metti pubblico
+Carica Notebook
+Carica presentazione power point
+Finisci articolo su Medium
