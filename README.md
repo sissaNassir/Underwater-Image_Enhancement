@@ -9,7 +9,7 @@ This is the [dataset](https://li-chongyi.github.io/proj_benchmark.html) used
 
 Authors: Luca Bracchi and Silvia Zandoli
 
-#References in literature
+## References in literature
 - Inspired from this [paper](https://ieeexplore.ieee.org/document/9751218)
 - original [repository](https://gitee.com/sunshixin_upc/underwater-image-enhancement-with-reinforcement-learning) of the authors of the paper 
 
